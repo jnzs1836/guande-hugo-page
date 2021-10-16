@@ -8,7 +8,6 @@ date: "2021-11-22T00:00:00Z"
 doi: ""
 featured: true
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
   preview_only: false
 
