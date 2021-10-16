@@ -8,7 +8,8 @@
 
 theme: custom
 day_night: false
-font: rose
+font: classic
+google_fonts: "family=B612+Mono&family=Open+Sans"
 font_size: L
 
 # SEO
