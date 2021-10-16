@@ -21,33 +21,33 @@ twitter: ''
 
 # Contact
 
-email: test@example.org
-phone: 888 888 88 88
-appointment_url: 'https://calendly.com'
+email: guandewu@nyu.edu
+phone: +1 201-565-7882
+#appointment_url: 'https://calendly.com'
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 370 Jay St.
+  city: Brooklyn
+  region: NY
+  postcode: '11201'
   country: United States
   country_code: US
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
+#directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+#office_hours:
+#  - 'Monday 10:00 to 13:00'
+#  - 'Wednesday 09:00 to 10:00'
 contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: video
-    icon_pack: fas
-    name: Zoom Me
-    link: 'https://zoom.com'
+    link: 'https://twitter.com/wu_gunned'
+#  - icon: skype
+#    icon_pack: fab
+#    name: Skype Me
+#    link: 'skype:echo123?call'
+#  - icon: video
+#    icon_pack: fas
+#    name: Zoom Me
+#    link: 'https://zoom.com'
 
 # Site header
 
@@ -125,13 +125,7 @@ comments:
     show_count: true
   commento:
     url: ''
-search:
-  provider: ''
-  algolia:
-    app_id: ''
-    api_key: ''
-    index_name: ''
-    show_logo: false
+
 map:
   provider: ''
   api_key: ''
@@ -146,3 +140,8 @@ cms:
 icon:
   pack:
     ai: true
+search:
+  provider: wowchemy
+  wowchemy:
+    min_length: 1  # Only the matches whose length exceeds this value will be returned.
+    threshold: 0.3  # Where 0 requires a perfect match and 1 matches anything.

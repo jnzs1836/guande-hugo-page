@@ -11,7 +11,6 @@ subtitle: ""
 design:
   columns: '1'
 ---
+Hi! This is Guande Wu, a Ph.D. student in Tandon School of Engineering, New York University. My advisor is [Prof. Claudio T. Silva](https://vgc.poly.edu/~csilva/). I am really interested in aiding visualization design process by machine learning approaches. Previously, I have worked with many outstanding experts in visualization and software engineering at Zhejiang University, Tongji University, UC Davis and Microsoft Research Asia.
 
-Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-**Specialties:** Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
+**Specialties:** Data Visualization, Visual Analytics for Multi-Media Data, Photography, Joking
