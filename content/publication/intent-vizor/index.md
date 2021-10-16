@@ -12,7 +12,7 @@ image:
   focal_point: ""
   preview_only: false
 projects:
-- internal-project
+- c2smart-project
 publication: ""
 publication_short: ""
 publication_types:
