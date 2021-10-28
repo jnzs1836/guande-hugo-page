@@ -20,14 +20,8 @@ publication_types:
 publishDate: "2021-09-20T00:00:00Z"
 summary: The target of automatic Video summarization is to create a short skim of the original long video while preserving the major content/events...
 tags:
-- Source Themes
+- Video Summarization 
 title: "IntentVizor: Towards Generic Query Guided Interactive Video Summarization Using Slow-Fast Graph Convolutional Networks"
 url_code: https://github.com/jnzs1836/intent-vizor
 url_pdf: https://arxiv.org/pdf/2109.14834.pdf
 ---
-
-{{% callout note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

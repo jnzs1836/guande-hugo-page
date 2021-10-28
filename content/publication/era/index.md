@@ -10,7 +10,9 @@ featured: true
 image:
   focal_point: ""
   preview_only: false
-
+links:
+- name: BMVC 2021
+  url: 'https://www.bmvc2021.com/'
 projects:
 - c2smart-project
 publication: To Appear on *British Machine Vision Conference 2021*
@@ -20,20 +22,9 @@ publication_types:
 publishDate: "2021-10-15T00:00:00Z"
 summary: Video summarization aims to simplify large scale video browsing by generating concise, short summaries that diver from but well represent the original video... 
 tags:
-- Source Themes
+- Video Summarization 
 title: "ERA: Entity–relationship Aware Video Summarization with Wasserstein GAN"
 url_code: 'https://github.com/jnzs1836/ERA-VSum'
 url_pdf: https://arxiv.org/pdf/2109.02625.pdf
 url_project: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
