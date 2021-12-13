@@ -25,6 +25,6 @@ tags:
 - Video Summarization 
 title: "ERA: Entity–relationship Aware Video Summarization with Wasserstein GAN"
 url_code: 'https://github.com/jnzs1836/ERA-VSum'
-url_pdf: https://arxiv.org/pdf/2109.02625.pdf
+url_pdf: https://www.bmvc2021-virtualconference.com/assets/papers/1536.pdf
 url_project: ""
 ---
