@@ -15,8 +15,8 @@ links:
   url: 'https://www.bmvc2021.com/'
 projects:
 - c2smart-project
-publication: To Appear on *British Machine Vision Conference 2021*
-publication_short: To Appear on *BMVC 2021*
+publication: *British Machine Vision Conference 2021*
+publication_short: *BMVC 2021*
 publication_types:
 - "1"
 publishDate: "2021-10-15T00:00:00Z"
