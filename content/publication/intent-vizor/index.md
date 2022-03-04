@@ -11,7 +11,7 @@ featured: false
 image:
   focal_point: ""
   preview_only: false
-- name: cvpr 2022
+- name: CVPR 2022
   url: 'https://cvpr2022.thecvf.com'
 projects:
 - c2smart-project
