@@ -13,7 +13,7 @@ image:
   preview_only: false
 projects:
 - c2smart-project
-publication: "*IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022*"
+publication: "To Appear on *CVPR 2022*"
 publication_short: "CVPR 2022"
 publication_types:
 - "3"
