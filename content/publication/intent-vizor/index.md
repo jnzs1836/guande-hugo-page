@@ -11,6 +11,7 @@ featured: false
 image:
   focal_point: ""
   preview_only: false
+links:
 - name: CVPR 2022
   url: 'https://cvpr2022.thecvf.com'
 projects:
