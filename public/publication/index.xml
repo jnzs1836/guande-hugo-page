@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Guande Wu</title>
+    <link>https://www.gdwu.xyz/publication/</link>
+      <atom:link href="https://www.gdwu.xyz/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.gdwu.xyz/media/icon_hu4821510e753aab60f633fc6eba330cf7_2917_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://www.gdwu.xyz/publication/</link>
+    </image>
+    
+    <item>
+      <title>ERA: Entity–relationship Aware Video Summarization with Wasserstein GAN</title>
+      <link>https://www.gdwu.xyz/publication/era/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.gdwu.xyz/publication/era/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IntentVizor: Towards Generic Query Guided Interactive Video Summarization</title>
+      <link>https://www.gdwu.xyz/publication/intent-vizor/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.gdwu.xyz/publication/intent-vizor/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

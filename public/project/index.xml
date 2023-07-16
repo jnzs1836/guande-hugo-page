@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Guande Wu</title>
+    <link>https://www.gdwu.xyz/project/</link>
+      <atom:link href="https://www.gdwu.xyz/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.gdwu.xyz/media/icon_hu4821510e753aab60f633fc6eba330cf7_2917_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://www.gdwu.xyz/project/</link>
+    </image>
+    
+    <item>
+      <title>Video Summarization and Visual Analysis on Videos</title>
+      <link>https://www.gdwu.xyz/project/c2smart-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.gdwu.xyz/project/c2smart-project/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Mobile sensing has offered efficient, cost-effective data collection procedures that opened new research frontiers, specifically in urban sensing and transportation. In the past, due to highly costly and time-consuming data collection procedures, a limited number of urban indicators were measured and made available to researchers. Hence, our understanding of cities on many frontiers was bounded by the ability to collect, record, manage, and store data. Recent advancements in producing low-cost sensing devices, together with the advent of new techniques in computer vision and machine learning, lead to the creation of massive data sets collected by fleets of sensor-equipped vehicles moving through streets.&lt;/p&gt;
+&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
+&lt;p&gt;In this project, we propose to employ machine learning techniques for creating adaptive sampling profiles and a data-driven, opportunistic approach to data acquisition from moving sensors. Our immediate goal is to drastically cut down the cost of deploying video and image sensors, making them more practical. To this end, we plan to explore a novel research direction: detecting the salient frames in video data captured by sensors using computer vision, video segmentation algorithms. Then, a data-driven approach using ML will be employed to find the control features that enhance sensor data acquisition and prevent huge waste to the memory and storage resources. We plan to evaluate our proposed methods by demonstrating their effectiveness in a pedestrian mobility analysis. We provide a method to count pedestrians from a moving car instead of relying on the conventional methods of using fixed sensors or human counters, which due to their high cost, suffer from very limited spatial coverage.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

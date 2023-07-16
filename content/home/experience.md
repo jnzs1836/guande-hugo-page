@@ -21,7 +21,15 @@ experience:
     location: 'New York, NY'
     date_start: '2021-01-29'
     date_end: ''
-
+  
+  - title: 'Research Scientist Intern'
+    company: 'Adobe Research'
+    company_logo: adobe 
+    company_url: ''
+    location: 'San Jose, CA (Remotely in NJ)'
+    date_start: '2022-05-23'
+    date_end: '2022-08-17'
+  
   - title: 'Research Intern'
     company: 'Microsoft Research Asia'
     company_logo: microsoft
