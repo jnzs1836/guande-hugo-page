@@ -17,7 +17,7 @@ image:
 links:
 - name: IEEE VIS 2023
   url: 'https://ieeevis.org/year/2023/welcome'
-publication: "*To Appear on IEEE VIS Conference 2023*"
+publication: "*IEEE VIS Conference 2023*"
 publication_short: "*IEEE VIS 2023*"
 publication_types:
 - "1"

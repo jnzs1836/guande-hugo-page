@@ -16,12 +16,12 @@ image:
 links:
 - name: IEEE VIS 2023
   url: 'https://ieeevis.org/year/2023/welcome'
-publication: "*To Appear on IEEE VIS Conference 2023*"
+publication: "*IEEE VIS Conference 2023*"
 publication_short: "*IEEE VIS 2023*"
 publication_types:
 - "1"
 publishDate: "2023-07-15T00:00:00Z"
-summary: Visual data stories can effectively convey insights from data, yet their creation often necessitates intricate data exploration, insight discovery, narrative organization, and customization to meet the communication objectives of the storyteller. Existing automated data storytelling system, however, tends to overlook the importance of user customization during the data story authoring process, limiting the system's ability to create tailored narratives that reflect the user's intentions. We present a novel data story generation workflow that leverages adaptive machine-guided elicitation of user feedback to customize the story ...
+summary: We present a novel data story generation workflow that leverages adaptive machine-guided elicitation of user feedback to customize the story ...
 tags:
 - Narrative Visualization 
 title: "Socrates: Data Story Generation via Adaptive Machine-Guided Elicitation of User Feedback"

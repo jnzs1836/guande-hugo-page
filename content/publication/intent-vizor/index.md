@@ -16,7 +16,7 @@ links:
   url: 'https://cvpr2022.thecvf.com'
 projects:
 - c2smart-project
-publication: "To Appear on *IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022*"
+publication: "*IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022*"
 publication_short: "CVPR 2022"
 publication_types:
 - "1"
