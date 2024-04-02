@@ -14,6 +14,14 @@ design:
 Hi! This is Guande Wu, a Ph.D. student in Tandon School of Engineering, New York University. My advisor is [Prof. Claudio T. Silva](https://vgc.poly.edu/~csilva/) and I am also working with [Prof. Chen Zhao](http://www.chenz.umiacs.io). My research interest mainly lies in the human-AI collaboration especially in AR scenario. Previously, I have worked with many outstanding experts in visualization and software engineering at Zhejiang University, Tongji University, UC Davis and Microsoft Research Asia and Adobe Research.
 <!-- Hi! This is Guande Wu, a Ph.D. student in Tandon School of Engineering, New York University. My advisor is [Prof. Claudio T. Silva](https://vgc.poly.edu/~csilva/). I am really interested in aiding visualization design process by machine learning approaches. Previously, I have worked with many outstanding experts in visualization and software engineering at Zhejiang University, Tongji University, UC Davis and Microsoft Research Asia and Adobe Research. -->
 
+<div class="audio-row">
+<audio class="audio-md" controls >
+  <source src="/audio/pronunciation.m4a" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<p class="audio-caption">The name pronunciation in my mother tougue <a href="https://en.wikipedia.org/wiki/Lishui">the Lishui Dialect (丽水话)</a>, a dialect of <a href="https://en.wikipedia.org/wiki/Wu_Chinese"> the Wu Chinese language (吴语)</a>.</p>
+</div>
+
 **Specialties:** Data Visualization, Visual Analytics for Multi-Media Data, Photography, Humor
 
 

@@ -58,3 +58,20 @@
 .dark .portrait-title h3 {
   color: rgba(255, 255, 255, 1);
 }
+
+.audio-row{
+  display: flex;
+  flex-direction: "row";
+  align-items: center; /* This vertically centers the items if the row's height exceeds that of its content */
+  justify-content: flex-start; /* This aligns items to the start of the row. You can use 'space-between' for equal spacing */
+  gap: 20px; /* Adjusts the gap between the audio player and the text */
+}
+.audio-md{
+  flex-basis: 340px;
+  flex-grow: 0;
+}
+
+.audio-caption {
+  flex-basis: 2;
+  flex-grow: 1;
+}
