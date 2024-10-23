@@ -11,8 +11,12 @@ subtitle: ""
 design:
   columns: '1'
 ---
-Hi! This is Guande Wu, a Ph.D. student in Tandon School of Engineering, New York University. My advisor is [Prof. Claudio T. Silva](https://vgc.poly.edu/~csilva/) and I am also working with [Prof. Chen Zhao](http://www.chenz.umiacs.io). My research interest mainly lies in the human-AI collaboration especially in AR scenario. Previously, I have worked with many outstanding experts in visualization and software engineering at Zhejiang University, Tongji University, UC Davis and Microsoft Research Asia and Adobe Research.
+<!-- Hi! This is Guande Wu, a Ph.D. student in Tandon School of Engineering, New York University. My advisor is [Prof. Claudio T. Silva](https://vgc.poly.edu/~csilva/) and I am also working with [Prof. Chen Zhao](http://www.chenz.umiacs.io). My research interest mainly lies in the human-AI collaboration especially in AR scenario. Previously, I have worked with many outstanding experts in visualization and software engineering at Zhejiang University, Tongji University, UC Davis and Microsoft Research Asia and Adobe Research. -->
 <!-- Hi! This is Guande Wu, a Ph.D. student in Tandon School of Engineering, New York University. My advisor is [Prof. Claudio T. Silva](https://vgc.poly.edu/~csilva/). I am really interested in aiding visualization design process by machine learning approaches. Previously, I have worked with many outstanding experts in visualization and software engineering at Zhejiang University, Tongji University, UC Davis and Microsoft Research Asia and Adobe Research. -->
+Hi! This am Guande Wu, a Ph.D. candidate in Tandon School of Engineering, New York University. My advisor is [Prof. Claudio T. Silva](https://vgc.poly.edu/~csilva/) and I am also working with [Prof. Chen Zhao](http://www.chenz.umiacs.io).  My research is centered around creating intent-driven human-AI collaborative systems across various application domains, including augmented reality (AR) and multi-modal analysis. I’m particularly interested in exploring how multi-modal LLM agents can collaborate with humans as equal partners.
+
+Previously, I’ve had the opportunity to work with many outstanding experts in visualization and multi-modal LLM at Zhejiang University, Tongji University, UC Davis, Microsoft Research Asia, Adobe Research and Amazon AWS AI. I have also served as the PC member for Chinese CHI and the reviewer for ACM CHI, UIST, CVPR, AAAI, IMWUT, TPAMI and TVCG.
+*I’ll be on the job market next year, seeking opportunities in both the U.S. and China.*
 
 <div class="audio-row">
 <audio class="audio-md" controls >

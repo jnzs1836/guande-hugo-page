@@ -22,6 +22,14 @@ experience:
     date_start: '2021-01-29'
     date_end: ''
   
+  - title: 'Applied Scientist Intern'
+    company: 'Amazon AWS AI'
+    company_logo: amazon 
+    company_url: ''
+    location: 'Santa Clara, CA'
+    date_start: '2024-05-28'
+    date_end: '2024-08-30'
+
   - title: 'Research Scientist Intern'
     company: 'Adobe Research'
     company_logo: adobe 
