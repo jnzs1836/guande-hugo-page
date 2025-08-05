@@ -14,13 +14,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with `>-`.
 experience:
+  - title: 'Applied Scientist II'
+    company: 'Amazon.com'
+    company_url: ''
+    company_logo: amazon
+    location: 'Santa Clara, CA'
+    date_start: '2025-07-07'
+    date_end: ''
   - title: 'Ph.D. Student'
     company: 'New York University'
     company_url: ''
     company_logo: nyu
     location: 'New York, NY'
     date_start: '2021-01-29'
-    date_end: ''
+    date_end: '2025-06-03'
   
   - title: 'Applied Scientist Intern'
     company: 'Amazon AWS AI'

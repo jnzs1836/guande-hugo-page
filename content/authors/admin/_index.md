@@ -6,12 +6,12 @@ title: Guande Wu (吴冠德)
 superuser: true
 
 # Role/position
-role: CS Ph.D. Student
+role: Applied Scientist II
 
 # Organizations/Affiliations
 organizations:
-- name: Visualization, Imaging and Data Analytics Center at New York University
-  url: "www.nyu.edu"
+- name: AWS Agentic AI
+  url: "https://aws.amazon.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Hi! This is Guande Wu, a Ph.D. student in Tandon School of Engineering, New York University. My advisor is [Prof. Claudio T. Silva](https://vgc.poly.edu/~csilva/) and I am also working with [Prof. Chen Zhao](http://www.chenz.umiacs.io). My research interest mainly lies in the human-AI collaboration especially in AR scenario. Previously, I have worked with many outstanding experts in visualization and software engineering at Zhejiang University, Tongji University, UC Davis and Microsoft Research Asia and Adobe Research.
