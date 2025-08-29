@@ -30,7 +30,7 @@ experience:
     date_end: '2025-06-03'
   
   - title: 'Applied Scientist Intern'
-    company: 'Amazon AWS AI'
+    company: 'Amazon AWS'
     company_logo: amazon 
     company_url: ''
     location: 'Santa Clara, CA'

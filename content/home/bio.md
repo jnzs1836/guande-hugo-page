@@ -32,7 +32,7 @@ advanced:
 author: admin
 ---
 Hi! This am Guande Wu, a Ph.D. candidate in Tandon School of Engineering, New York University. My advisor is [Prof. Claudio T. Silva](https://vgc.poly.edu/~csilva/). My research is centered around data visualization and interface design.
-Previously, I have worked with many outstanding experts in visualization and HCI at Zhejiang University, Tongji University, UC Davis, Microsoft Research Asia, Adobe Research and Amazon AWS AI. *I’ll be on the job market next year, seeking opportunities in both the U.S. and China.*
+Previously, I have worked with many outstanding experts in visualization and HCI at Zhejiang University, Tongji University, UC Davis, Microsoft Research Asia, Adobe Research and Amazon AWS. *I’ll be on the job market next year, seeking opportunities in both the U.S. and China.*
 
 <!-- [comment]: <> (I'm a research scientist in the Language team at DeepMind. I blog about machine learning, deep learning, and natural language processing.) -->
 
