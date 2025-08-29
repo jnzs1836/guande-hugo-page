@@ -31,15 +31,15 @@ advanced:
   
 author: admin
 ---
-Hi! This am Guande Wu, a Ph.D. candidate in Tandon School of Engineering, New York University. My advisor is [Prof. Claudio T. Silva](https://vgc.poly.edu/~csilva/). My research is centered around creating intent-driven human-AI collaborative systems across various application domains, including augmented reality (AR) and multi-modal analysis. I’m particularly interested in exploring how multi-modal large language model (LLM) agents can collaborate with humans as equal partners.
-Previously, I have worked with many outstanding experts in visualization and multi-modal LLM at Zhejiang University, Tongji University, UC Davis, Microsoft Research Asia, Adobe Research and Amazon AWS AI. *I’ll be on the job market next year, seeking opportunities in both the U.S. and China.*
+Hi! This am Guande Wu, a Ph.D. candidate in Tandon School of Engineering, New York University. My advisor is [Prof. Claudio T. Silva](https://vgc.poly.edu/~csilva/). My research is centered around data visualization and interface design.
+Previously, I have worked with many outstanding experts in visualization and HCI at Zhejiang University, Tongji University, UC Davis, Microsoft Research Asia, Adobe Research and Amazon AWS AI. *I’ll be on the job market next year, seeking opportunities in both the U.S. and China.*
 
 <!-- [comment]: <> (I'm a research scientist in the Language team at DeepMind. I blog about machine learning, deep learning, and natural language processing.) -->
 
 ## My Mission
 Hi! This is Guande Wu! I am an applied scientist at Amazon AWS. I obtained my Ph.D. degree from Tandon School of Engineering, New York University. My advisor is [Prof. Claudio T. Silva](https://vgc.poly.edu/~csilva/) and I was also working with [Prof. Chen Zhao](http://www.chenz.umiacs.io).  My research is centered around data visualization and interface design.
-Previously, I’ve had the opportunity to work with many outstanding experts in visualization and HCI at Zhejiang University, UC Davis, Microsoft Research Asia, Adobe Research and Amazon AWS. I have also served as the PC member for Chinese CHI and the reviewer for ACM CHI, UIST, CVPR, AAAI, IMWUT, TPAMI and TVCG.
-*I’ll be on the job market next year, seeking opportunities in both the U.S. and China.*
+Previously, I’ve had the opportunity to work with many outstanding experts in visualization and HCI at Zhejiang University, UC Davis, Microsoft Research Asia, Adobe Research and Amazon AWS. I have also served as the PC member for Chinese CHI and the reviewer for ACM CHI, UIST, IMWUT, TPAMI and TVCG.
+<!-- *I’ll be on the job market next year, seeking opportunities in both the U.S. and China.* -->
 <!-- Hi! This is Guande Wu, a Ph.D. student in Tandon School of Engineering, New York University. My advisor is [Prof. Claudio T. Silva](https://vgc.poly.edu/~csilva/) and I am also working with [Prof. Chen Zhao](http://www.chenz.umiacs.io). My research interest mainly lies in the human-AI collaboration especially in AR scenario. Previously, I have worked with many outstanding experts in visualization and software engineering at Zhejiang University, Tongji University, UC Davis and Microsoft Research Asia and Adobe Research. -->
 
 [comment]: <> (Use this area to speak to your mission. Maecenas a varius odio egestas auctor. Praesent facilisis, ex a gravida ultricies, quam sed magna placerat eros, et vehicula lectus ligula id dui. Aliquam uto cursus velit ut eros lorem ipsum ullamcorper iaculis.)
