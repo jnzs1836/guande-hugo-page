@@ -13,11 +13,11 @@ design:
 ---
 <!-- Hi! This is Guande Wu, a Ph.D. student in Tandon School of Engineering, New York University. My advisor is [Prof. Claudio T. Silva](https://vgc.poly.edu/~csilva/) and I am also working with [Prof. Chen Zhao](http://www.chenz.umiacs.io). My research interest mainly lies in the human-AI collaboration especially in AR scenario. Previously, I have worked with many outstanding experts in visualization and software engineering at Zhejiang University, Tongji University, UC Davis and Microsoft Research Asia and Adobe Research. -->
 <!-- Hi! This is Guande Wu, a Ph.D. student in Tandon School of Engineering, New York University. My advisor is [Prof. Claudio T. Silva](https://vgc.poly.edu/~csilva/). I am really interested in aiding visualization design process by machine learning approaches. Previously, I have worked with many outstanding experts in visualization and software engineering at Zhejiang University, Tongji University, UC Davis and Microsoft Research Asia and Adobe Research. -->
-Hi! This is Guande Wu, a HCI and LLM agent researcher. I am currently an Applied Scientist at AWS Agentic AI team.
-I obtained my Ph.D. degree from Tandon School of Engineering, New York University. My Ph.D. advisor is [Prof. Claudio T. Silva](https://vgc.poly.edu/~csilva/) and I was also working with [Prof. Chen Zhao](http://www.chenz.umiacs.io).  My research is centered around creating intent-driven human-AI collaborative systems across various application domains, including augmented reality (AR) and multi-modal analysis. I’m particularly interested in exploring how multi-modal LLM agents can collaborate with humans as equal partners.
+Hi! This is Guande Wu, a HCI and LLM agent researcher. I am currently an Applied Scientist at Amazon AWS.
+I obtained my Ph.D. degree from Tandon School of Engineering, New York University. My Ph.D. advisor is [Prof. Claudio T. Silva](https://vgc.poly.edu/~csilva/) and I was also working with [Prof. Chen Zhao](http://www.chenz.umiacs.io).  My research is centered around interface design and data visualization.
 
-Previously, I’ve had the opportunity to work with many outstanding experts in visualization and multi-modal LLM at Zhejiang University, Tongji University, UC Davis, Microsoft Research Asia, Adobe Research and Amazon AWS AI. I have also served as the PC member for Chinese CHI and the reviewer for ACM CHI, UIST, CVPR, AAAI, IMWUT, TPAMI and TVCG.
-*I’ll be on the job market next year, seeking opportunities in both the U.S. and China.*
+Previously, I’ve had the opportunity to work with many outstanding experts in visualization and HCI at Zhejiang University, UC Davis, Microsoft Research Asia, Adobe Research and Amazon AWS. I have also served as the PC member for Chinese CHI and the reviewer for ACM CHI, UIST, IMWUT, TPAMI and TVCG.
+<!-- *I’ll be on the job market next year, seeking opportunities in both the U.S. and China.* -->
 
 <div class="audio-row">
 <audio class="audio-md" controls >
@@ -27,7 +27,7 @@ Previously, I’ve had the opportunity to work with many outstanding experts in 
 <p class="audio-caption">The name pronunciation in my mother tougue <a href="https://en.wikipedia.org/wiki/Lishui">the Lishui Dialect (丽水话)</a>, a dialect of <a href="https://en.wikipedia.org/wiki/Wu_Chinese"> the Wu Chinese language (吴语)</a>.</p>
 </div>
 
-**Specialties:** Data Visualization, Visual Analytics for Multi-Media Data, Photography, Humor
+**Specialties:** Data Visualization, Interface Design, Photography, Humor
 
 
 **Cat:**
